@@ -1,6 +1,6 @@
 Hi There 👋🏼
 
-# I am Muslimbek and i am frontend developer
+# I am Muslimbek and i am frontend develope
 
 | Rank | Languages |
 |-----:|-----------|
